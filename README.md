@@ -7,6 +7,7 @@
 ## 🎥 Demo Video
 ![CampusConnect Demo](demo.webp)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://campusconnectmanagementplatform.vercel.app/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 ---
@@ -145,7 +146,7 @@ pnpm install
 pnpm run dev
 ```
 
-The application will be available at the preview URL shown in your environment.
+The application is live at: [https://campusconnectmanagementplatform.vercel.app/](https://campusconnectmanagementplatform.vercel.app/)
 
 ---
 
