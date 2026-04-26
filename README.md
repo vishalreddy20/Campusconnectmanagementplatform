@@ -4,6 +4,9 @@
 
 > Revolutionize your Campus Ambassador program with automated task management, gamification, and real-time analytics.
 
+## 🎥 Demo Video
+![CampusConnect Demo](demo.webp)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 ---
